@@ -1,0 +1,15 @@
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\bin\Debug\net6.0\Activity 4 Solution.exe
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\bin\Debug\net6.0\Activity 4 Solution.deps.json
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\bin\Debug\net6.0\Activity 4 Solution.runtimeconfig.json
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\bin\Debug\net6.0\Activity 4 Solution.dll
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\bin\Debug\net6.0\ref\Activity 4 Solution.dll
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\bin\Debug\net6.0\Activity 4 Solution.pdb
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\obj\Debug\net6.0\Activity 4 Solution.csproj.AssemblyReference.cache
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\obj\Debug\net6.0\Activity 4 Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\obj\Debug\net6.0\Activity 4 Solution.AssemblyInfoInputs.cache
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\obj\Debug\net6.0\Activity 4 Solution.AssemblyInfo.cs
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\obj\Debug\net6.0\Activity 4 Solution.csproj.CoreCompileInputs.cache
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\obj\Debug\net6.0\Activity 4 Solution.dll
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\obj\Debug\net6.0\ref\Activity 4 Solution.dll
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\obj\Debug\net6.0\Activity 4 Solution.pdb
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\obj\Debug\net6.0\Activity 4 Solution.genruntimeconfig.cache
