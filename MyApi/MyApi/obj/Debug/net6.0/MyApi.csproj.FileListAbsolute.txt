@@ -1,0 +1,15 @@
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\bin\Debug\net6.0\MyApi.exe
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\bin\Debug\net6.0\MyApi.deps.json
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\bin\Debug\net6.0\MyApi.runtimeconfig.json
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\bin\Debug\net6.0\MyApi.dll
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\bin\Debug\net6.0\ref\MyApi.dll
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\bin\Debug\net6.0\MyApi.pdb
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\obj\Debug\net6.0\MyApi.csproj.AssemblyReference.cache
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\obj\Debug\net6.0\MyApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\obj\Debug\net6.0\MyApi.AssemblyInfoInputs.cache
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\obj\Debug\net6.0\MyApi.AssemblyInfo.cs
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\obj\Debug\net6.0\MyApi.csproj.CoreCompileInputs.cache
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\obj\Debug\net6.0\MyApi.dll
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\obj\Debug\net6.0\ref\MyApi.dll
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\obj\Debug\net6.0\MyApi.pdb
+C:\Users\tobri\OneDrive\Desktop\School\API\MyApi\MyApi\MyApi\obj\Debug\net6.0\MyApi.genruntimeconfig.cache

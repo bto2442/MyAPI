@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Activity 4",
+      "appliesTo": "Activity 4",
+      "type": "launch"
+    }
+  ]
+}
