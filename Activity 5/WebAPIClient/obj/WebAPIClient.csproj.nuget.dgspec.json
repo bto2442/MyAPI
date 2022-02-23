@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tobri\\OneDrive\\Desktop\\School\\API\\MyApi\\WebAPIClient (Activity 5)\\WebAPIClient.csproj": {}
+    "C:\\Users\\tobri\\OneDrive\\Desktop\\School\\API\\MyApi\\Activity 5\\WebAPIClient\\WebAPIClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tobri\\OneDrive\\Desktop\\School\\API\\MyApi\\WebAPIClient (Activity 5)\\WebAPIClient.csproj": {
+    "C:\\Users\\tobri\\OneDrive\\Desktop\\School\\API\\MyApi\\Activity 5\\WebAPIClient\\WebAPIClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tobri\\OneDrive\\Desktop\\School\\API\\MyApi\\WebAPIClient (Activity 5)\\WebAPIClient.csproj",
+        "projectUniqueName": "C:\\Users\\tobri\\OneDrive\\Desktop\\School\\API\\MyApi\\Activity 5\\WebAPIClient\\WebAPIClient.csproj",
         "projectName": "WebAPIClient",
-        "projectPath": "C:\\Users\\tobri\\OneDrive\\Desktop\\School\\API\\MyApi\\WebAPIClient (Activity 5)\\WebAPIClient.csproj",
+        "projectPath": "C:\\Users\\tobri\\OneDrive\\Desktop\\School\\API\\MyApi\\Activity 5\\WebAPIClient\\WebAPIClient.csproj",
         "packagesPath": "C:\\Users\\tobri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tobri\\OneDrive\\Desktop\\School\\API\\MyApi\\WebAPIClient (Activity 5)\\obj\\",
+        "outputPath": "C:\\Users\\tobri\\OneDrive\\Desktop\\School\\API\\MyApi\\Activity 5\\WebAPIClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tobri\\AppData\\Roaming\\NuGet\\NuGet.Config",
